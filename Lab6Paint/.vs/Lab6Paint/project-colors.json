@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2b95093-2ed8-48af-908b-6894f1ea9b02": {
+      "ProjectGuid": "f2b95093-2ed8-48af-908b-6894f1ea9b02",
+      "DisplayName": "Lab6Paint",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

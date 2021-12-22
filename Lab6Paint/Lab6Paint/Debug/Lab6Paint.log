@@ -1,0 +1,16 @@
+﻿  paint.cpp
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(247,47): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(248,47): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(264,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(264,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(279,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(280,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(294,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(294,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(303,122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(303,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(312,120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(312,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(391,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Lab6Paint\paint.cpp(391,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab6Paint.vcxproj -> D:\Уник\2 курс\Прога 3 сем\Lab6Paint\Debug\Lab6Paint.exe
